@@ -1,1 +1,3 @@
 # Forecasting Project: Time Series Analysis and Forecasting with Python
+
+In this repo I have uploaded my first time series forecasting project. I have forecasted Energy Consumption for the next 5 years.
