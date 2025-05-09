@@ -1,4 +1,4 @@
-# Forecasting Project: Time Series Analysis and Forecasting with Python
+# Forecasting Project: Time Series Analysis and Forecasting with Python using XGBosst and Prophet Model
 
 In this repo I have uploaded my first time series forecasting project. 
 
